@@ -19,4 +19,4 @@ elif choice == "2":
 else:
     print("Error. try again")
 
-print("Hello\n")
+print("\nGoodbye")
