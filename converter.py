@@ -18,3 +18,5 @@ elif choice == "2":
     print(f"{m} м = {m_to_km(m)} км")
 else:
     print("Error. try again")
+
+print("\nGoodbye")
